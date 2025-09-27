@@ -1,4 +1,4 @@
-# 🌸 Iris Flower Classification
+# Iris Flower Classification
 
 This project implements a **K-Nearest Neighbors (KNN) Classifier** on the famous [Iris Dataset](https://archive.ics.uci.edu/ml/datasets/iris).  
 The goal is to classify iris flowers into three species: **Setosa, Versicolor, Virginica** based on their petal and sepal features.
@@ -29,6 +29,4 @@ The goal is to classify iris flowers into three species: **Setosa, Versicolor, V
    ```bash
    git clone https://github.com/your-username/iris-flower-classification.git
 2.Open the notebook in Jupyter or Google Colab:
-
-jupyter notebook Untitled1.ipynb
 3.Run all the cells.
